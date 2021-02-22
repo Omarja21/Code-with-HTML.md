@@ -1,0 +1,22 @@
+li{ color: whitesmoke;
+	display: inline;
+	padding: 50px;
+	font-size: 40px;
+	text-align:right;
+
+	}
+	ul{
+		background-color: black;
+	}
+	img{width: 90px;
+	hight:70px;
+	padding-top: 15px;
+	float: right;
+	}
+	div.relative{
+		position: relative;
+		float: left;
+		margin-right: 400px;
+		
+	}
+	
